@@ -1,7 +1,7 @@
 import copy
 print("\033c\033[47;31m\ngive me the .form file name to open ? \n ")
-#a=input().strip()
-a="my.form"
+a=input().strip()
+#a="my.form"
 f1=open(a,"r")
 b=f1.read()
 f1.close()
