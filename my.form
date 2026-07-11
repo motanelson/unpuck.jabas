@@ -1,5 +1,0 @@
-give me the .java file name to create ?,give me the java function name to create?,give me the java return type to create ?,give me the java number of inputs to create ?,give me the java function to create ?
-my.java|adds|int|3| a + b + c
-my.java|subs|int|3| a - b - c
-my.java|muls|int|3| a * b * c
-my.java|divs|int|1| a / 2
